@@ -1,3 +1,20 @@
 ***
-# <font color=u size=8>🐍 Python 100 Days of Code</font>
+# <font color=u size=8><center>🐍 Python 100 Days of Code</font>
 ***
+
+# Content
+- Day 1 - Working With Variables.
+- Day 2 - Understanding Types and How to Manipulate Strings.
+- Day 3 - Control Flow and Logical Operators.
+- Day 4 - Randomisation and Python Lists.
+- Day 5 - Python Loops.
+- Day 6 - Python Functions and <a href="https://reeborg.ca/">Karel</a>.
+- Day 7 - Hangman.
+- Day 8 - Function Parameters & Caesar Cipher.
+- Day 9 - Dictionaries, Nesting and Secret Auction.
+- Day 10 - Functions with Outputs.
+- Day 11 - Blackjack Capstone Project.
+- Day 12 - Scope & Number Guessing Game.
+- Day 13 - Debugging: How to Find and Fix Errors in your Code.
+- Day 14 - Higher Lower Game Project.
+- Day 15 - Local Development Environment Setup & the Coffee Machine.
