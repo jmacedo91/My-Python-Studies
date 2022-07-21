@@ -18,3 +18,4 @@
 - Day 13 - Debugging: How to Find and Fix Errors in your Code.
 - Day 14 - Higher Lower Game Project.
 - Day 15 - Local Development Environment Setup & the Coffee Machine.
+- Day 16 - Object Oriented Programming (OOP)
