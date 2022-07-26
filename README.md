@@ -19,3 +19,4 @@
 - Day 14 - Higher Lower Game Project.
 - Day 15 - Local Development Environment Setup & the Coffee Machine.
 - Day 16 - Object Oriented Programming (OOP)
+- Day 17 - The Quiz Project & the Benefits of OOP
