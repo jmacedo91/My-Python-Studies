@@ -21,3 +21,4 @@
 - Day 16 - Object Oriented Programming (OOP)
 - Day 17 - The Quiz Project & the Benefits of OOP
 - Day 18 - Turtle & the Graphic User Interface (GUI)
+- Day 19 - Instances, State and Higher Order Functions
