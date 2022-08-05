@@ -22,3 +22,4 @@
 - Day 17 - The Quiz Project & the Benefits of OOP
 - Day 18 - Turtle & the Graphic User Interface (GUI)
 - Day 19 - Instances, State and Higher Order Functions
+- Day 20 - Build the Snake Game Part 1: Animation & Coordinates
