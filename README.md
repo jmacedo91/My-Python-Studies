@@ -23,3 +23,12 @@
 - Day 18 - Turtle & the Graphic User Interface (GUI)
 - Day 19 - Instances, State and Higher Order Functions
 - Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+- Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+- Day 22 - Build Pong: The Famous Arcade Game
+
+- Day 41 - Web Foundation - Introduction to HTML
+- Day 42 - Web Foundation - Intermediate HTML
+- Day 43 - Web Foundation - Introduction to CSS
+- Day 44 - Web Foundation - Intermediate CSS
+
+- Day 58 - Web Foundation - Bootstrap
