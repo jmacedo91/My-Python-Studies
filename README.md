@@ -25,10 +25,10 @@
 - Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 - Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 - Day 22 - Build Pong: The Famous Arcade Game
-
+<br>
 - Day 41 - Web Foundation - Introduction to HTML
 - Day 42 - Web Foundation - Intermediate HTML
 - Day 43 - Web Foundation - Introduction to CSS
 - Day 44 - Web Foundation - Intermediate CSS
-
+<br>
 - Day 58 - Web Foundation - Bootstrap
