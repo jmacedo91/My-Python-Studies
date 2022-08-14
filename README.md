@@ -1,5 +1,5 @@
 ***
-# <font color=u size=8><center>🐍 Python 100 Days of Code</font>
+# <font color=u size=8><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3%> Python 100 Days of Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3%></font>
 ***
 
 # Content
