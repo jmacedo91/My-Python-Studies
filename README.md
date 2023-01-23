@@ -26,7 +26,7 @@
 - Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 - Day 22 - Build Pong: The Famous Arcade Game
 - Day 23 - The Turtle Crossing Capstone Project
-- Day 24 - Merge Mail Challenge
+- Day 24 - Files, Directories and Paths
 
   
 - Day 41 - Web Foundation - Introduction to HTML
