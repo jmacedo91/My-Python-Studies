@@ -27,6 +27,7 @@
 - Day 22 - Build Pong: The Famous Arcade Game
 - Day 23 - The Turtle Crossing Capstone Project
 - Day 24 - Files, Directories and Paths
+- Day 25 - Working with CSV Data and the Pandas Library
 
   
 - Day 41 - Web Foundation - Introduction to HTML
