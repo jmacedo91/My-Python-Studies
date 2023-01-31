@@ -8,15 +8,17 @@ window.minsize(width=500, height=300)
 my_label = tkinter.Label(text="I am a Label", font=("Arial", 24, "bold"))
 my_label.pack(side="left")  # defaults to side = "top"
 
-import turtle
-
-tim = turtle.Turtle()
-tim.write("Some Text", font=("Times New Roman", 80, "bold"))
-
-
-
-
 
 # while True:
-#     listening (this is is include in tkinter - window.mainloop())
+#     listening (this is include in tkinter - window.mainloop())
 window.mainloop()
+
+# *args: Many Positional Arguments
+# Unlimited Arguments
+# def add(*args):
+# 	for n in args:
+# 		print(n)
+
+# *args is a tuple
+
+# **kwargs: Many Key Words Arguments
