@@ -30,6 +30,7 @@
 - Day 25 - Working with CSV Data and the Pandas Library
 - Day 26 - List Comprehension and the NATO Alphabet
 - Day 27 - Tkinter, args, kwargs and Creating GUI Programs
+- Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 
   
 - Day 41 - Web Foundation - Introduction to HTML
