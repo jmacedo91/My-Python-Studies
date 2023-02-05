@@ -31,6 +31,8 @@
 - Day 26 - List Comprehension and the NATO Alphabet
 - Day 27 - Tkinter, args, kwargs and Creating GUI Programs
 - Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- Day 29 - Building a Password Manager GUI App with Tkinter
+- Day 30 - Errors, Exceptions and JSON Data: Improving the Password
 
   
 - Day 41 - Web Foundation - Introduction to HTML
