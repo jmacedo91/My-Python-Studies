@@ -43,7 +43,7 @@ def play_sound():
             playsound("long_beep.mp3")
             time.sleep(0.05)
         elif code == "/" or code == " ":
-            time.sleep(0.15)
+            time.sleep(0.5)
         else:
             print("Invalid character!")
 
