@@ -1,5 +1,6 @@
 from tkinter import *
 from playsound import playsound
+import time
 
 # ---------------------------- CONSTANTS ------------------------------- #
 BG_COLOR = "#EAEAEA"
@@ -22,7 +23,8 @@ MORSE_CODE_DICT = {
             '2': '..---', '3': '...--',
             '4': '....-', '5': '.....',
             '6': '-....', '7': '--...',
-            '8': '---..', '9': '----.'
+            '8': '---..', '9': '----.',
+            ' ': '/'
         }
 
 def translate():
@@ -33,16 +35,17 @@ def translate():
     morse_code.config(text=translated_text)
 
 def play_sound():
-    playsound("risada-de-ladrao-toque.mp3")
-
-# def play_sound():
-#     for code in morse_code["text"]:
-#         if code == ".":
-#             playsound("")
-#         elif code == "-":
-#             playsound("")
-#         else:
-#             play_sound("")
+    for code in morse_code["text"]:
+        if code == ".":
+            playsound("short_beep.mp3")
+            time.sleep(0.05)
+        elif code == "-":
+            playsound("long_beep.mp3")
+            time.sleep(0.05)
+        elif code == "/" or code == " ":
+            time.sleep(0.15)
+        else:
+            print("Invalid character!")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
