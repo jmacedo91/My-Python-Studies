@@ -28,13 +28,13 @@ def generate_password():
 
 
 def save():
-    website = website_entry.get()
+    website = website_entry.get().title()
     username = username_entry.get()
     password = password_entry.get()
     new_data = {
         website: {
-        "username": username,
-        "password": password
+            "username": username,
+            "password": password
         }
     }
 
@@ -53,11 +53,31 @@ def save():
         else:
             with open("data.json", mode="w") as data_file:
                 # Saving updated data
-                json.dump(data, data_file, indent=4) # Write a new dictionary open("data.json", mode="w")
+                json.dump(data, data_file, indent=4)  # Write a new dictionary open("data.json", mode="w")
+        finally:
+            website_entry.delete(0, END)
+            password_entry.delete(0, END)
 
-                website_entry.delete(0, END)
-                password_entry.delete(0, END)
-            
+
+# ---------------------------- FIND PASSWORD ------------------------------- #
+
+
+def find_password():
+    website = website_entry.get().title()
+    if website == "":
+        messagebox.showinfo(title="Oops", message="Please don't leave any fields empty!")
+    else:
+        try:
+            with open("data.json", mode="r") as data_file:
+                data = json.load(data_file)
+        except FileNotFoundError:
+            messagebox.showinfo(title="Fail", message="No Data File Found")
+        else:
+            if website in data:
+                messagebox.showinfo(title="Success", message=f"Username: {data[website]['username']}"
+                                                             f"\nPassword: {data[website]['password']}")
+            else:
+                messagebox.showinfo(title="Fail", message="No details for the website exists")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -83,7 +103,7 @@ password_label = Label(text="Password:", justify="center")
 password_label.grid(row=3, column=0)
 
 # MyPass Entries 📝
-website_entry = Entry(width=52)
+website_entry = Entry(width=33)
 website_entry.grid(row=1, column=1, columnspan=2, sticky="W")
 website_entry.focus()
 
@@ -95,6 +115,9 @@ password_entry = Entry(width=33)
 password_entry.grid(row=3, column=1, sticky="W")
 
 # MyPass Buttons
+search_button = Button(text="Search", width=14, command=find_password)
+search_button.grid(row=1, column=2)
+
 gen_password_button = Button(text="Generate Password", command=generate_password)
 gen_password_button.grid(row=3, column=2, sticky="W")
 
