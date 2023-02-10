@@ -71,13 +71,13 @@ def find_password():
             with open("data.json", mode="r") as data_file:
                 data = json.load(data_file)
         except FileNotFoundError:
-            messagebox.showinfo(title="Fail", message="No Data File Found")
+            messagebox.showinfo(title="Error", message="No Data File Found")
         else:
             if website in data:
                 messagebox.showinfo(title="Success", message=f"Username: {data[website]['username']}"
                                                              f"\nPassword: {data[website]['password']}")
             else:
-                messagebox.showinfo(title="Fail", message="No details for the website exists")
+                messagebox.showinfo(title="Error", message=f"No details for the {website} exists")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
