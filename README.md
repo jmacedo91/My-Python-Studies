@@ -3,6 +3,7 @@
 ***
 
 # Content
+### Beginner
 - Day 1 - Working With Variables.
 - Day 2 - Understanding Types and How to Manipulate Strings.
 - Day 3 - Control Flow and Logical Operators.
@@ -17,6 +18,8 @@
 - Day 12 - Scope & Number Guessing Game.
 - Day 13 - Debugging: How to Find and Fix Errors in your Code.
 - Day 14 - Higher Lower Game Project.
+
+### Intermediate
 - Day 15 - Local Development Environment Setup & the Coffee Machine.
 - Day 16 - Object Oriented Programming (OOP)
 - Day 17 - The Quiz Project & the Benefits of OOP
@@ -44,4 +47,5 @@
   
 - Day 58 - Web Foundation - Bootstrap
 
+### Profissional
 - Day 81 - Profissional Portfolio Project - Text to Morse Code Converter
