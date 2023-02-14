@@ -26,17 +26,17 @@
 
 import datetime as dt
 
-# now = dt.datetime.now()
-# year = now.year
-# month = now.month
-# day_of_week = now.weekday()
-# print(now)
-# print(year)
-# print(month)
-# print(day_of_week)
-#
-# if year == 2023:
-#     print("Wear a face mask")
-#
-# date_of_birth = dt.datetime(year=1992, month=8, day=30, hour=4)
-# print(date_of_birth)
+now = dt.datetime.now()
+year = now.year
+month = now.month
+day_of_week = now.weekday()
+print(now)
+print(year)
+print(month)
+print(day_of_week)
+
+if year == 2023:
+    print("Wear a face mask")
+
+date_of_birth = dt.datetime(year=1992, month=8, day=30, hour=4)
+print(date_of_birth)
