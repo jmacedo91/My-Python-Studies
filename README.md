@@ -37,6 +37,7 @@
 - Day 29 - Building a Password Manager GUI App with Tkinter
 - Day 30 - Errors, Exceptions and JSON Data: Improving the Password
 - Day 31 - Flash Card App Capstone Project
+- Day 32 - Send Email (smtplib) & Manage Dates (datetime)
 
   
 - Day 41 - Web Foundation - Introduction to HTML
