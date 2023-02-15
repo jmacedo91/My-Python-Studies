@@ -4,7 +4,7 @@ import pandas as pd
 import smtplib
 from random import randint
 
-MY_EMAIL = "jonathan.silvamacedo@gmail.com"
+MY_EMAIL = "xxxxxxxxx@gmail.com"
 PASSWORD = "notthistime"
 PLACEHOLDER = "[NAME]"
 

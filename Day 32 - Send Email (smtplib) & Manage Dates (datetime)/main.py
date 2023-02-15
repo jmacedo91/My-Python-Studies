@@ -1,6 +1,6 @@
 # import smtplib
 #
-# my_email = "jonathan.silvamacedo@gmail.com"
+# my_email = "xxxxxxxxx@gmail.com"
 # password = "notthistime"
 #
 # # 1️⃣ Creating Connection
@@ -18,7 +18,7 @@
 #
 #     # 4️⃣ Send Email
 #     connection.sendmail(from_addr=my_email,
-#                         to_addrs="jonathanmacedo91@yahoo.com",
+#                         to_addrs="xxxxxxxxx@yahoo.com",
 #                         msg="Subject:Hello\n\nThis is the body of my email.")
 #
 # # 5️⃣ Closing Connection
