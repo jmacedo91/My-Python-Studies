@@ -4,6 +4,7 @@ import requests.exceptions
 from pokemon import Pokemon
 import urllib.request
 
+
 # Constants
 ENTRY_BG = "#3AB47D"
 SCREEN_BG = "#98CB98"
@@ -60,5 +61,5 @@ button_img = PhotoImage(file="button.png")
 pokedex_btn = Button(image=button_img, command=search, bg=BUTTON_BG, highlightthickness=0)
 pokedex_btn.place(x=10, y=356)
 
-window.bind('<Return>',lambda event:search())
+window.bind("<Return>",lambda event:search())
 window.mainloop()
