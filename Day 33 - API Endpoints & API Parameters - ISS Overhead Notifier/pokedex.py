@@ -7,7 +7,7 @@ import urllib.request
 # Constants
 ENTRY_BG = "#3AB47D"
 SCREEN_BG = "#98CB98"
-BUTTON_BG = "#585858"
+BUTTON_BG = "#5E5F5B"
 
 # Creating User Interface
 window = Tk()
@@ -45,9 +45,6 @@ def search():
         pkm = Pokemon(pokemon_name)
     except requests.exceptions.JSONDecodeError:
         messagebox.showerror(title="Not Found!", message="This Pokémon doesn't exist! Please, review entries!")
-        name.config(text=f"Name: Not Found!")
-        number.config(text=f"ID: Not Found!")
-        element.config(text=f"Element: Not Found!")
     else:
         name.config(text=f"Name: {pkm.specie}")
         number.config(text=f"ID: {pkm.id}")
@@ -58,8 +55,10 @@ def search():
         pokemon_canvas.create_image(96, 96, image=pokemon_img)
         pokemon_canvas.place(x=120, y=153)
 
+button_img = PhotoImage(file="button.png")
 
-pokedex_btn = Button(text="Search", command=search, bg=BUTTON_BG, fg="white")
-pokedex_btn.place(x=118, y=460)
+pokedex_btn = Button(image=button_img, command=search, bg=BUTTON_BG, highlightthickness=0)
+pokedex_btn.place(x=10, y=356)
 
+window.bind('<Return>',lambda event:search())
 window.mainloop()
