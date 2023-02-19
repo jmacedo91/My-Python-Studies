@@ -4,51 +4,55 @@
 
 # Content
 ### Beginner
-- Day 1 - Working With Variables.
-- Day 2 - Understanding Types and How to Manipulate Strings.
-- Day 3 - Control Flow and Logical Operators.
-- Day 4 - Randomisation and Python Lists.
-- Day 5 - Python Loops.
-- Day 6 - Python Functions and <a href="https://reeborg.ca/">Karel</a>.
-- Day 7 - Hangman.
-- Day 8 - Function Parameters & Caesar Cipher.
-- Day 9 - Dictionaries, Nesting and Secret Auction.
-- Day 10 - Functions with Outputs.
-- Day 11 - Blackjack Capstone Project.
-- Day 12 - Scope & Number Guessing Game.
-- Day 13 - Debugging: How to Find and Fix Errors in your Code.
-- Day 14 - Higher Lower Game Project.
+<ul>
+  <li> Day 1 - Working With Variables</li>
+  <li> Day 2 - Understanding Types and How to Manipulate Strings</li>
+  <li> Day 3 - Control Flow and Logical Operators</li>
+  <li> Day 4 - Randomisation and Python Lists</li>
+  <li> Day 5 - Python Loops</li>
+  <li> Day 6 - Python Functions and <a href="https://reeborg.ca/">Karel</a></li>
+  <li> Day 7 - Hangman</li>
+  <li> Day 8 - Function Parameters & Caesar Cipher</li>
+  <li> Day 9 - Dictionaries, Nesting and Secret Auction</li>
+  <li> Day 10 - Functions with Outputs</li>
+  <li> Day 11 - Blackjack Capstone Project</li>
+  <li> Day 12 - Scope & Number Guessing Game</li>
+  <li> Day 13 - Debugging: How to Find and Fix Errors in your Code</li>
+  <li> Day 14 - Higher Lower Game Project</li>
+</ul>
 
 ### Intermediate
-- Day 15 - Local Development Environment Setup & the Coffee Machine.
-- Day 16 - Object Oriented Programming (OOP)
-- Day 17 - The Quiz Project & the Benefits of OOP
-- Day 18 - Turtle & the Graphic User Interface (GUI)
-- Day 19 - Instances, State and Higher Order Functions
-- Day 20 - Build the Snake Game Part 1: Animation & Coordinates
-- Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
-- Day 22 - Build Pong: The Famous Arcade Game
-- Day 23 - The Turtle Crossing Capstone Project
-- Day 24 - Files, Directories and Paths
-- Day 25 - Working with CSV Data and the Pandas Library
-- Day 26 - List Comprehension and the NATO Alphabet
-- Day 27 - Tkinter, args, kwargs and Creating GUI Programs
-- Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- Day 29 - Building a Password Manager GUI App with Tkinter
-- Day 30 - Errors, Exceptions and JSON Data: Improving the Password
-- Day 31 - Flash Card App Capstone Project
-- Day 32 - Send Email (smtplib) & Manage Dates (datetime)
-- Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
-- Day 34 - API Practice - Creating a GUI Quiz App
+<ul>
+  <li> Day 15 - Local Development Environment Setup & the Coffee Machine.</li>
+  <li> Day 16 - Object Oriented Programming (OOP)</li>
+  <li> Day 17 - The Quiz Project & the Benefits of OOP</li>
+  <li> Day 18 - Turtle & the Graphic User Interface (GUI)</li>
+  <li> Day 19 - Instances, State and Higher Order Functions</li>
+  <li> Day 20 - Build the Snake Game Part 1: Animation & Coordinates</li>
+  <li> Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing</li>
+  <li> Day 22 - Build Pong: The Famous Arcade Game</li>
+  <li> Day 23 - The Turtle Crossing Capstone Project</li>
+  <li> Day 24 - Files, Directories and Paths</li>
+  <li> Day 25 - Working with CSV Data and the Pandas Library</li>
+  <li> Day 26 - List Comprehension and the NATO Alphabet/li>
+  <li> Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application</li>
+  <li> Day 29 - Building a Password Manager GUI App with Tkinter</li>
+  <li> Day 30 - Errors, Exceptions and JSON Data: Improving the Password</li>
+  <li> Day 31 - Flash Card App Capstone Project</li>
+  <li> Day 32 - Send Email (smtplib) & Manage Dates (datetime)</li>
+  <li> Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier</li>
+  <li> Day 34 - API Practice - Creating a GUI Quiz App</li>
+  <li></li>
+  <li> Day 41 - Web Foundation - Introduction to HTML</li>
+  <li> Day 42 - Web Foundation - Intermediate HTML</li>
+  <li> Day 43 - Web Foundation - Introduction to CSS</li>
+  <li> Day 44 - Web Foundation - Intermediate CSS</li>
+  <li></li>
+  <li> Day 58 - Web Foundation - Bootstrap</li>
+</ul>
 
-  
-- Day 41 - Web Foundation - Introduction to HTML
-- Day 42 - Web Foundation - Intermediate HTML
-- Day 43 - Web Foundation - Introduction to CSS
-- Day 44 - Web Foundation - Intermediate CSS
-
-  
-- Day 58 - Web Foundation - Bootstrap
 
 ### Profissional
-- Day 81 - Portfolio Project - Text to Morse Code Converter
+<ul>
+  <li> Day 81 - Portfolio Project - Text to Morse Code Converter</li>
+</ul>
