@@ -38,6 +38,8 @@
 - Day 30 - Errors, Exceptions and JSON Data: Improving the Password
 - Day 31 - Flash Card App Capstone Project
 - Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+- Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
+- Day 34 - API Practice - Creating a GUI Quiz App
 
   
 - Day 41 - Web Foundation - Introduction to HTML
@@ -49,4 +51,4 @@
 - Day 58 - Web Foundation - Bootstrap
 
 ### Profissional
-- Day 81 - Profissional Portfolio Project - Text to Morse Code Converter
+- Day 81 - Portfolio Project - Text to Morse Code Converter
