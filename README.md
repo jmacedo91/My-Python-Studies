@@ -23,7 +23,7 @@
 
 ### Intermediate
 <ul>
-  <li> Day 15 - Local Development Environment Setup & the Coffee Machine.</li>
+  <li> Day 15 - Local Development Environment Setup & the Coffee Machine</li>
   <li> Day 16 - Object Oriented Programming (OOP)</li>
   <li> Day 17 - The Quiz Project & the Benefits of OOP</li>
   <li> Day 18 - Turtle & the Graphic User Interface (GUI)</li>
@@ -34,7 +34,7 @@
   <li> Day 23 - The Turtle Crossing Capstone Project</li>
   <li> Day 24 - Files, Directories and Paths</li>
   <li> Day 25 - Working with CSV Data and the Pandas Library</li>
-  <li> Day 26 - List Comprehension and the NATO Alphabet/li>
+  <li> Day 26 - List Comprehension and the NATO Alphabet</li>
   <li> Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application</li>
   <li> Day 29 - Building a Password Manager GUI App with Tkinter</li>
   <li> Day 30 - Errors, Exceptions and JSON Data: Improving the Password</li>
